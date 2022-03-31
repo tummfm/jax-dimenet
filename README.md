@@ -31,7 +31,7 @@ more real-world applications of the DimeNet++ model in MD simulations, please
 refer to the [DiffTRe](https://github.com/tummfm/difftre) repository.
 
 ## Installation
-You can install Jax-DimeNet++ via pip:
+You can install Jax-DimeNet via pip:
 ```
 pip install jax-dimenet
 ```
