@@ -1,4 +1,6 @@
 # Jax-DimeNet++
+[![PyPI version](https://badge.fury.io/py/jax-dimenet.svg)](https://badge.fury.io/py/jax-dimenet)
+[![Documentation Status](https://readthedocs.org/projects/jax-dimenet/badge/?version=latest)](https://jax-dimenet.readthedocs.io/en/latest/?badge=latest)
 
 Haiku implementation of the [DimeNet++ architecture](https://github.com/gasteigerjo/dimenet).
 
